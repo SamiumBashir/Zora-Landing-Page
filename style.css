@@ -166,7 +166,7 @@ a:active{
 
 #about{
     background: url('/images/about-bg.jpg');
-    height: 100vh;
+    height: 100%;
     background-size: cover;
     opacity: 75%;
 }
